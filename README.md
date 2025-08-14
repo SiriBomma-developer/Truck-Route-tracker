@@ -1,6 +1,3 @@
-# **2. Truck Route Tracker** → **FleetPath Live**
-```bash
-cat > README.md <<'EOF'
 # FleetPath Live
 
 A live fleet and route monitoring dashboard built with **Spring Boot** for backend processing and **Kafka** for real-time data streaming.  
